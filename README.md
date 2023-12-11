@@ -7,3 +7,5 @@
 -react-toastify
 -tailwind
 # twitter_clone
+
+![](twitter_screen.gif)
